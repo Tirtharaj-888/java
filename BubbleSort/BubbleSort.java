@@ -53,5 +53,7 @@ public class BubbleSort
             }
             System.out.print(A[i]);
         }
+        System.out.println();
+        System.out.println("Fun Coding!");
     }
 }
