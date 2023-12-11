@@ -14,6 +14,6 @@ public class multi5
             }
             System.out.println("\n");
         }
-        System.out.println("Fun Coding!");
+        System.out.print("Fun Coding!");
     }
 }
