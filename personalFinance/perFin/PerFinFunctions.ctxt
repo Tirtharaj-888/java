@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PerFinFunctions
+comment1.params=p\ r\ t
+comment1.target=double\ simpInt(double,\ double,\ double)
+comment2.params=p\ r\ t
+comment2.target=double\ compInt(double,\ double,\ double)
+numComments=3
